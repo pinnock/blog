@@ -1,2 +1,1 @@
-# blog
-My personal blog focused on software development and related topics.
+Hi! I'm {{ site.author.name }}. Welcome to my blog.

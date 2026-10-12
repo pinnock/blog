@@ -1,9 +1,13 @@
-title: [Rayon Pinnock - Blog]
-description: [My personal blog focused on software development and related topics.]
+title: [Pinnock - Blog]
+description: [A personal blog focused on software development and related topics.]
+
+author:
+  name: [Rayon Pinnock]
+  email: [pinnock.mail@gmail.com]  
 
 #show_downloads: [true]
 #google_analytics: [Your Google Analytics tracking ID]
 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
